@@ -1,0 +1,21 @@
+## Title: WoWQuote
+## Version 0.1
+## Notes: Receives and transmits sound-quotes
+## Notes-deDE: Empfängt und sendet Sound-Quotes
+## Interface: 11200
+##
+## Author: Lev@Die Ewige Wacht, Harag@Die Ewige Wacht, Patched by Marlokk@Durotan
+## URL: https://github.com/Rumchiller/wowquote-vanilla
+## 
+## SavedVariables: WQ_SETTINGS
+## OptionalDeps:
+## Dependencies:
+Media.lua
+
+Localization.de.lua
+WoWQuote.lua
+WoWQuote.xml
+
+WowQuoteUI.lua
+LocalizationUI.de.lua
+WoWQuoteUI.xml
