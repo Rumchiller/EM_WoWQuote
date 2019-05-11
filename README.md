@@ -1,2 +1,8 @@
 # wowquote-vanilla
-WoWQuote 0.1 patched for WoW 1.12.1
+WoWQuote patched for WoW 1.12.1
+
+0.1:
+Init
+
+0.2:
+Minimap-Icon added
