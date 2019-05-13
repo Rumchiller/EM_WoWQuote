@@ -10,4 +10,4 @@ db = LibStub("LibDataBroker-1.1"):NewDataObject("WoWQuote",
 });
 icon = LibStub("LibDBIcon-1.0");
 
-icon:Register("WoWQuote", db, savedVarTable);
+icon:Register("WoWQuote", db, WoWQuote_savedVarTable);
